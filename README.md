@@ -1,12 +1,12 @@
 # BlackCloud
 100% Working Cloudflare Bypass 1/29/2021 100%
 
-##Example Output:
+## Example Output:
 
-[~/Black_Cloud]
-└─$ sudo ./BlackCloud       
-BlackCloud - Cloudflare Bypass v.1
-M.B.Hudson 2021
+### [~/Black_Cloud]
+### └─$ sudo ./BlackCloud       
+### BlackCloud - Cloudflare Bypass v.1
+### M.B.Hudson 2021
 
 ENTER Domain Name
  >> stormfront.org
